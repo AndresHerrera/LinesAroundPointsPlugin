@@ -22,4 +22,4 @@ With this plugin you can:
 
 ## Download
 
-The plugin can be downloaded [lines_around_point.zip] (lines_around_point.zip) and installed in QGIS from the plugin manager -> option (Install from ZIP)
+The plugin can be downloaded [lines_around_point.zip](lines_around_point.zip) and installed in QGIS from the plugin manager -> option (Install from ZIP)
